@@ -75,7 +75,7 @@ A proud **Harry Potter** fan — that magical world has a special place in my he
 <details>
 <p align="center">
   <a href="https://github.com/yayediop2">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayediop2&hide_border=true&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yayediop2&count_private=true&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/yayediop2">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yayediop2&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&card_width=338&theme=transparent" />
